@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD6a6A20305e1382E98eE1249D65BBE143c380f53",
+  "SCAN_LINK": "",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Meta Pooke",
+  "SYMBOL": "",
+  "MAX_SUPPLY": 1555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
