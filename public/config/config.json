@@ -2,14 +2,14 @@
   "CONTRACT_ADDRESS": "0xD6a6A20305e1382E98eE1249D65BBE143c380f53",
   "SCAN_LINK": "",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "Ethereum",
+    "ID": 1
       },
   "NFT_NAME": "Meta Pooke",
   "SYMBOL": "",
-  "WEI_COST": 5000000000000000000,
-  "DISPLAY_COST": 5,
+  "WEI_COST": 500000000000000000000,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "SHOW_BACKGROUND": true
 }
