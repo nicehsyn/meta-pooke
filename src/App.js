@@ -340,7 +340,7 @@ function App() {
                     <s.Container ai={"center"} jc={"center"} fd={"row"}>
                       <StyledRoundButton
                         style={{ lineHeight: 0.4 }}
-                        disabled={claimingNft ? 1 : 0}
+                        disabled={claimingNft ? 1 : 15}
                         onClick={(e) => {
                           e.preventDefault();
                           decrementMintAmount();
@@ -359,7 +359,7 @@ function App() {
                       </s.TextDescription>
                       <s.SpacerMedium />
                       <StyledRoundButton
-                        disabled={claimingNft ? 1 : 0}
+                        disabled={claimingNft ? 1 : 15}
                         onClick={(e) => {
                           e.preventDefault();
                           incrementMintAmount();
@@ -371,7 +371,7 @@ function App() {
                     <s.SpacerSmall />
                     <s.Container ai={"center"} jc={"center"} fd={"row"}>
                       <StyledButton
-                        disabled={claimingNft ? 1 : 0}
+                        disabled={claimingNft ? 1 : 15}
                         onClick={(e) => {
                           e.preventDefault();
                           claimNFTs();
