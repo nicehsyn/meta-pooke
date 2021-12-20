@@ -8,6 +8,7 @@
       },
   "NFT_NAME": "Meta Pooke",
   "SYMBOL": "",
+  "MAX_SUPPLY": 888,
   "WEI_COST": 2500000000000000,
   "DISPLAY_COST": 0.0025,
   "GAS_LIMIT": 285000,
